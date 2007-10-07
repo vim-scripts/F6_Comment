@@ -1,6 +1,6 @@
 " F6_Comment.vim
 " Author: David Maclay
-" Version: 1.0
+" Version: 1.1
 " License: GPLv2
 
 " Description:
